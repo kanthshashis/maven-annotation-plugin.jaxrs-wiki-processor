@@ -169,6 +169,7 @@ PROCESSOR PLUGIN
               <wikiFilesExt>.confluence</wikiFilesExt>
               <properties />
               <templateWiki>${project.build.directory}/generated-sources/apt-test/test.confluence</templateWiki>
+              <serverId>https://testtdk.atlassian.net</serverId>
           </configuration>
       </plugin>
 
