@@ -662,5 +662,12 @@ public class JAXRSWikiProcessor extends AbstractProcessor {
         }
     }
 
+	public testMethod() {
+		for int (1=0; i<1000; i++){
+					System.out.println("Loop Tetsing");
+		}
+
+	}
+
 
 }
